@@ -19,3 +19,5 @@ The powertrain of the vehicle consists of two n20 DC motors, that connect to a a
 
 # Schematic
 schematic can be found in assets as undercity_car.pdf
+
+<img width="1064" height="662" alt="image" src="https://github.com/user-attachments/assets/6d2701bc-176b-421e-a77d-38a6ff2eab5a" />
