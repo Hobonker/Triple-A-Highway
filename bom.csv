@@ -6,13 +6,13 @@ Gear Motors,2,"DC gear motors (e.g., TT Motors or N20)"
 Arduino Uno,1,Official or compatible clone
 Wires (Jumper Wires),Assorted,"Male-male, male-female, female-female"
 Superglue,1 tube,For securing components
-Tape,1 roll,Electrical or masking tape
-Pencils,As needed,For structural or creative purposes
+Tape,2 ,
+Pencils,As needed,For structural purpose
 Breadboards,5,Standard 400-point or mini breadboards
 Ultrasonic Sensors,2,HC-SR04 modules
 Raspberry Pi Zero 2 W,1,With microSD card and power supply
-Rubber Bands,Assorted,For tensioning or holding parts
-Webcam,1,USB compatible for Pi or PC
+Rubber Bands,Assorted,
+Webcam,1,
 Motor Driver,1,"L298N, L293D, or TB6612FNG module"
-Zip Ties,Assorted,For cable management
-USB Cables,2,For Arduino and Raspberry Pi connections
+Zip Ties,Assorted,
+USB Cables,2,
