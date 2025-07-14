@@ -1,0 +1,18 @@
+Item,Quantity,Notes
+Servo Motors,2,"Standard hobby servos (e.g., SG90 or MG996R)"
+3D Printed Wheels,4,Design and print according to axle size
+3D Printed Axles,2,Custom designed for wheels and motors
+Gear Motors,2,"DC gear motors (e.g., TT Motors or N20)"
+Arduino Uno,1,Official or compatible clone
+Wires (Jumper Wires),Assorted,"Male-male, male-female, female-female"
+Superglue,1 tube,For securing components
+Tape,1 roll,Electrical or masking tape
+Pencils,As needed,For structural or creative purposes
+Breadboards,5,Standard 400-point or mini breadboards
+Ultrasonic Sensors,2,HC-SR04 modules
+Raspberry Pi Zero 2 W,1,With microSD card and power supply
+Rubber Bands,Assorted,For tensioning or holding parts
+Webcam,1,USB compatible for Pi or PC
+Motor Driver,1,"L298N, L293D, or TB6612FNG module"
+Zip Ties,Assorted,For cable management
+USB Cables,2,For Arduino and Raspberry Pi connections
