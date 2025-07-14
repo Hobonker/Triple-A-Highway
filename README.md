@@ -10,3 +10,8 @@ Now while we seriously fumbled on the apperances portion of the project (mainly 
 
 ## The Vehicle
 The powertrain of the vehicle consists of two n20 DC motors, that connect to a adafruit DRV8833 motor driver. This motor driver allows us to control the motors and gives us some directional control (forward / backwards). In the interest of conserving resources and time, we decided to attach the motors to a pencil for stability and easy connection to the frame. The chassis of vehicle is formed from two large breadboards joined together via zip ties and cardboard cutouts. There is also a small breadboard connected to two ultrasonic sensors at the front of the vehicle to give the vehicle object detection on the left and right sides. The idea was that the algorithm would constantly check whether the left or right side object is closer, and once it reaches a certain threshold, like 10 cm or so, it would turn the opposite way to the sensor with the smallest reading, hence turning away from the object. 
+
+
+![IMG_1405.jpeg](images/IMG_1405.jpeg)
+![IMG_1406.jpeg](images/IMG_1406.jpeg)
+![IMG_1408.jpeg](images/IMG_1408.jpeg)
