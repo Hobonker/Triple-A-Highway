@@ -21,3 +21,7 @@ The powertrain of the vehicle consists of two n20 DC motors, that connect to a a
 schematic can be found in assets as undercity_car.pdf
 
 <img width="1064" height="662" alt="image" src="https://github.com/user-attachments/assets/6d2701bc-176b-421e-a77d-38a6ff2eab5a" />
+
+# How did the project go?
+The project was a partial success, we aimed to use a pi 2 zero w and run computer vision models on that using a webcam that we bought seperately. However, due to delays in 3d printing and materials, we werent able to achieve this. However, we were able to get a partially functioning model that we have footage of the device responding to obstructions in its path and turning, although gradually. This can be found at the youtube link (ADD LATER). The model was able to move on its own power using a 9v battery powering the two motors and the servos to turn when required. We all strongly believe that with more time and adequate supplies, this project could have resembled a mini waymo car in function, although it is not completely there yet. 
+
